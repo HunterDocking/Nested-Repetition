@@ -1,0 +1,6 @@
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_X_x5\bin\Debug\Increase_X_x5.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_X_x5\bin\Debug\Increase_X_x5.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_X_x5\bin\Debug\Increase_X_x5.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_X_x5\obj\Debug\Increase_X_x5.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_X_x5\obj\Debug\Increase_X_x5.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_X_x5\obj\Debug\Increase_X_x5.pdb

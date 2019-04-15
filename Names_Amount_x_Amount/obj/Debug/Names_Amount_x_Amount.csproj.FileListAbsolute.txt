@@ -1,0 +1,7 @@
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Names_Amount_x_Amount\bin\Debug\Names_Amount_x_Amount.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Names_Amount_x_Amount\bin\Debug\Names_Amount_x_Amount.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Names_Amount_x_Amount\bin\Debug\Names_Amount_x_Amount.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Names_Amount_x_Amount\obj\Debug\Names_Amount_x_Amount.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Names_Amount_x_Amount\obj\Debug\Names_Amount_x_Amount.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Names_Amount_x_Amount\obj\Debug\Names_Amount_x_Amount.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Names_Amount_x_Amount\obj\Debug\Names_Amount_x_Amount.csprojAssemblyReference.cache

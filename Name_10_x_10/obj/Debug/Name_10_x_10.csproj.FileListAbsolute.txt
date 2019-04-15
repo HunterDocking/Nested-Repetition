@@ -1,0 +1,6 @@
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Name_10_x_10\bin\Debug\Name_10_x_10.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Name_10_x_10\bin\Debug\Name_10_x_10.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Name_10_x_10\bin\Debug\Name_10_x_10.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Name_10_x_10\obj\Debug\Name_10_x_10.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Name_10_x_10\obj\Debug\Name_10_x_10.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Name_10_x_10\obj\Debug\Name_10_x_10.pdb

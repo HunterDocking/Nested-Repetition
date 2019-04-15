@@ -1,0 +1,7 @@
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_Pyramid\bin\Debug\Decrease_Pyramid.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_Pyramid\bin\Debug\Decrease_Pyramid.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_Pyramid\bin\Debug\Decrease_Pyramid.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_Pyramid\obj\Debug\Decrease_Pyramid.csprojAssemblyReference.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_Pyramid\obj\Debug\Decrease_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_Pyramid\obj\Debug\Decrease_Pyramid.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_Pyramid\obj\Debug\Decrease_Pyramid.pdb

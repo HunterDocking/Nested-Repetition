@@ -1,0 +1,6 @@
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_X_xAmount\bin\Debug\Decrease_X_xAmount.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_X_xAmount\bin\Debug\Decrease_X_xAmount.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_X_xAmount\bin\Debug\Decrease_X_xAmount.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_X_xAmount\obj\Debug\Decrease_X_xAmount.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_X_xAmount\obj\Debug\Decrease_X_xAmount.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Decrease_X_xAmount\obj\Debug\Decrease_X_xAmount.pdb

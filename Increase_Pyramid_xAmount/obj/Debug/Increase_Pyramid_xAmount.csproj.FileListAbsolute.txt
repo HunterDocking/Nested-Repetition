@@ -1,0 +1,7 @@
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_Pyramid_xAmount\bin\Debug\Increase_Pyramid_xAmount.exe.config
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_Pyramid_xAmount\bin\Debug\Increase_Pyramid_xAmount.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_Pyramid_xAmount\bin\Debug\Increase_Pyramid_xAmount.pdb
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_Pyramid_xAmount\obj\Debug\Increase_Pyramid_xAmount.csprojAssemblyReference.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_Pyramid_xAmount\obj\Debug\Increase_Pyramid_xAmount.csproj.CoreCompileInputs.cache
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_Pyramid_xAmount\obj\Debug\Increase_Pyramid_xAmount.exe
+C:\Users\Hunter\Desktop\Lauchie\Intro To Programming\Nested Loops\Increase_Pyramid_xAmount\obj\Debug\Increase_Pyramid_xAmount.pdb
